@@ -1,0 +1,85 @@
+elementos - componentes do documento (codigo html)
+
+tags - comandos da linguagem "marca os parágrafos" ex: <p> </p> 
+
+atributos - caracteristicas algo dentro do primeiro p ex: classe / ID 
+
+estrutura de documento de html é uma "árvore"
+
+head é a raiz do meta dados
+
+meta dados é o que define o dado, conteúdo do documento 
+
+title nn pode ter filho, apenas aceita texto 
+
+meta pode usar para varios atributos diferentes 
+
+hr é um remanecente do inicio da internet, html ainda tem elementos de layout, usamos o html pra marcar o texto e dar sentido
+hr faz a quebra de linha
+
+h1-h6 servem para organizar seu conteúdo, estilo de sub-título
+
+pg 11- esses elementos servem para marcação semantica, divisão de um site em sessões da pagina inicial do site por ex.
+
+
+
+
+div não significa nada, é um bloco genérico, logo se for nem section ou article você usa div. Em vez de usar tag com semantica 
+como main section etc. usam div. (Tentar não usar qnd não puder)
+
+spain - se expande só pelo seu conteúdo (Conteiner genérico)
+
+-------------------------------------------------------------------------------------------------------
+
+Listas:
+
+ul - unordered list 
+
+ol - elementos que tem ordenação
+
+ambas usam li (Itens da lista)
+
+menu - é uma alternativa semântica do ul, no caso ao invés de usar o ul, você usa o menu pra guardar os links 
+
+
+pre - respeita o espaço feito no código 
+
+dl - definition list 
+
+dt - document type 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
